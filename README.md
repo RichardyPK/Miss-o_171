@@ -2,7 +2,7 @@
 
 # Questão 1
 
-## A
+##  a
 Valida os dados (valor > 0 e percentual entre 0 e 100, senão lança "Dados inválidos") e retorna o valor menos o desconto.
 
 ## B
