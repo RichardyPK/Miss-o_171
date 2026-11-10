@@ -2,7 +2,7 @@
 
 # Questão 1
 
-##  a
+## A
 Valida os dados (valor > 0 e percentual entre 0 e 100, senão lança "Dados inválidos") e retorna o valor menos o desconto.
 
 ## B
@@ -35,3 +35,23 @@ Testes na seção "Exercício 2" de tests/operacoes.test.js.
 
 ## D
 Uma só nota de aprovação não prova o limite: se o código usasse > 7, o teste com 10 passaria mesmo assim e o 7 seria reprovado por engano. É preciso testar a fronteira, os extremos e os valores inválidos.
+
+# Questão 3
+
+## A 
+Nome preenchido (sem ser só espaços), idade entre 18 e 100 e e-mail com @.
+
+## B
+Testes na seção "Exercício 3" de tests/operacoes.test.js (9 casos + 1 bônus).
+
+## C
+Retorna false: basta um dado inválido para rejeitar o cadastro.
+
+# Questão 4
+
+## A
+Testes na seção "Exercício 4" de tests/operacoes.test.js (6 casos da tabela).
+
+## B
+A regra é frete grátis para compras de R$ 200 ou mais. O valor 200 está exatamente no limite e o >= o inclui.
+
